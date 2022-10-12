@@ -1,0 +1,11 @@
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/api/InternationalizeConfig.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/service/PreconditionRequiredException.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/dal/repository/EntityRepository.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/service/SimpleCRUDService.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/service/NotFoundException.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/api/GeneralControllerAdvice.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/service/CRUDService.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/api/model/ErrorResponse.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/dal/Entity.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/api/model/ValidationError.java
+/home/reza-vivo/vasl/projects/reza/utils/crud/src/main/java/com/vasl/connect/utils/crud/service/CRUDServiceMapper.java

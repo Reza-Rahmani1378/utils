@@ -1,0 +1,13 @@
+com/vasl/connect/utils/crud/api/InternationalizeConfig.class
+com/vasl/connect/utils/crud/service/CRUDServiceMapper.class
+com/vasl/connect/utils/crud/dal/repository/EntityRepository.class
+com/vasl/connect/utils/crud/api/GeneralControllerAdvice.class
+com/vasl/connect/utils/crud/api/model/ErrorResponse.class
+com/vasl/connect/utils/crud/service/SimpleCRUDService.class
+com/vasl/connect/utils/crud/api/model/ErrorResponse$ErrorResponseBuilder.class
+com/vasl/connect/utils/crud/service/NotFoundException.class
+com/vasl/connect/utils/crud/api/model/ValidationError$ValidationErrorBuilder.class
+com/vasl/connect/utils/crud/service/CRUDService.class
+com/vasl/connect/utils/crud/service/PreconditionRequiredException.class
+com/vasl/connect/utils/crud/api/model/ValidationError.class
+com/vasl/connect/utils/crud/dal/Entity.class
